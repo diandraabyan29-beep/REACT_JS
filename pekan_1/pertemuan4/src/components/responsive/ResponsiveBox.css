@@ -1,0 +1,15 @@
+.box {
+  padding: 20px;
+  background: lightblue;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* MOBILE */
+@media (max-width: 600px) {
+  .box {
+    background: lightgreen;
+    padding: 12px;
+  }
+}

@@ -1,0 +1,17 @@
+.default {
+  padding: 12px 20px;
+  background: #dddddd;
+  border-radius: 6px;
+  border: none;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.primary {
+  padding: 12px 20px;
+  background: #007bff;
+  border-radius: 6px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
